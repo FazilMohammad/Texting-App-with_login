@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "898219306973",
+    "firebase_url": "https://tradpto-x-default-rtdb.firebaseio.com",
+    "project_id": "tradpto-x",
+    "storage_bucket": "tradpto-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898219306973:android:86ea436c6a4a3a7fafd034",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898219306973-0oi4gv1bq0cqkar40grie8te7784tgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylYty2s0v-pFNVEMlwwyzwwj-tliyoIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898219306973-0oi4gv1bq0cqkar40grie8te7784tgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898219306973:android:d4b9296896d1fba4afd034",
+        "android_client_info": {
+          "package_name": "com.example.nfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898219306973-0oi4gv1bq0cqkar40grie8te7784tgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylYty2s0v-pFNVEMlwwyzwwj-tliyoIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898219306973-0oi4gv1bq0cqkar40grie8te7784tgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898219306973:android:7ad0f89da8d6fb4dafd034",
+        "android_client_info": {
+          "package_name": "com.example.tradptox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898219306973-0oi4gv1bq0cqkar40grie8te7784tgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylYty2s0v-pFNVEMlwwyzwwj-tliyoIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898219306973-0oi4gv1bq0cqkar40grie8te7784tgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
